@@ -11,7 +11,7 @@ C Programming Language, Object Oriented Programming Language C++ , Solidity, Jav
 
 **Blockchain** ⛓️
 
-Ethereum, Solidity, Web3.js, IPFS, Metamask, Truffle, NFT, Cryptography, Geth, Openzeppelin smart contract library
+Ethereum, Solidity, Web3.js, IPFS, Metamask, Myetherwallet, Infura, Truffle, NFT, Cryptography, Geth, Openzeppelin smart contract library
 
 **Tools and frameworks**🛠️
 
@@ -26,7 +26,7 @@ Node.js, MYSQL/SQL, Snowflake
 S3 Bucket, Athena, EMR, Quicksight, EC2 instance
  
 
-🤝Connect with me:
+🤝Contact me:
 
 LinkedIn : 
 
@@ -34,7 +34,7 @@ https://www.linkedin.com/in/poovarasi08
 
 Gmail :
 
-Poovarasi532@gmail.com
+poovarasi532@gmail.com
 
 
 
